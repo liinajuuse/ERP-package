@@ -27,5 +27,3 @@ df # rows 1, 7 and 13 were deleted
 rownames(df) <- NULL # I like to reset the row names every time I apply a filter to delete rows in a data frame, just to keep it more organised
 
 df
-
-# test
